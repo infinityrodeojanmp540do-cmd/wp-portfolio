@@ -1,0 +1,21 @@
+/*
+Theme Name: Naoki Theme
+Author: Naoki
+Description: Portfolio theme
+Version: 1.0
+*/
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+header {
+  background: #333;
+  color: white;
+  padding: 20px;
+}
+
+main {
+  padding: 40px;
+}
